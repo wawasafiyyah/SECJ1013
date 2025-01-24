@@ -1,0 +1,40 @@
+        NUMBER OF STUDENTS' INTAKE, ENROLMENT AND OUTPUT
+                IN PUBLIC UNIVERSITIES (2023)
+
+----------------------------------------------------------------------
+ UNIVERSITY             INTAKE       ENROLMENT        OUTPUT
+----------------------------------------------------------------------
+     UM                   8093           27452          6328
+     USM                  7718           30853          6743
+     UKM                  8109           27239          4765
+     UPM                  8706           30670          7082
+     UTM                  7328           31066          6997
+     UUM                  7254           29143          6709
+     UIAM                10366           31526          5460
+     UniMAS               5578           16962          4579
+     UMS                  5041           18531          4064
+     UPSI                 5665           21587         11807
+     UiTM                65207          174755         38576
+     UMT                  3346           10665          2317
+     USIM                 3675           14781           893
+     UTHM                 4847           16436          4362
+     UTeM                 3148           12370          2428
+     UniMAP               4053           13769          2452
+     UMK                  2291            9882          1062
+     UPNM                 1341            3095          1308
+----------------------------------------------------------------------
+     TOTAL              161766          520782        117932
+     AVERAGE           8987.00        28932.33       6551.78
+----------------------------------------------------------------------
+ THE LOWEST NUMBER OF STUDENTS' INTAKE    = 1341 (UPNM)
+ THE LOWEST NUMBER OF STUDENTS' ENROLMENT = 3095 (UPNM)
+ THE LOWEST NUMBER OF STUDENTS' OUTPUT    = 893 (USIM)
+
+ THE HIGHEST NUMBER OF STUDENTS' INTAKE    = 65207 (UiTM)
+ THE HIGHEST NUMBER OF STUDENTS' ENROLMENT = 174755 (UiTM)
+ THE HIGHEST NUMBER OF STUDENTS' OUTPUT    = 38576 (UiTM)
+
+ THE RANGE OF NUMBER OF STUDENTS' INTAKE    = 63866
+ THE RANGE OF NUMBER OF STUDENTS' ENROLMENT = 171660
+ THE RANGE OF NUMBER OF STUDENTS' OUTPUT    = 37683
+----------------------------------------------------------------------
